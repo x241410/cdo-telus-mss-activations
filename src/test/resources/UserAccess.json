@@ -1,0 +1,26 @@
+{
+	"PT168": {
+		"MSS_APPLICATION_TELUS_username": "",
+		"MSS_APPLICATION_TELUS_password": "UGFzc3cwcmQ=",
+		"MSS_APPLICATION_TELUSCORP_username": "",
+		"MSS_APPLICATION_TELUSCORP_password": "UGFzc3cwcmQ=",
+		"MSS_APPLICATION_KOODO_username": "",
+		"MSS_APPLICATION_KOODO_password": "UGFzc3cwcmQ="
+	},
+	"PT148": {
+		"MSS_APPLICATION_TELUS_username": "",
+		"MSS_APPLICATION_TELUS_password": "UGFzc3cwcmQ=",
+		"MSS_APPLICATION_TELUSCORP_username": "ChannelsDLR",
+		"MSS_APPLICATION_TELUSCORP_password": "Q29uc2lsMTQx",
+		"MSS_APPLICATION_KOODO_username": "",
+		"MSS_APPLICATION_KOODO_password": "UGFzc3cwcmQ="
+	},
+	"PT140": {
+		"MSS_APPLICATION_TELUS_username": "",
+		"MSS_APPLICATION_TELUS_password": "UGFzc3cwcmQ=",
+		"MSS_APPLICATION_TELUSCORP_username": "dlusr11",
+		"MSS_APPLICATION_TELUSCORP_password": "VGVzdEA2NjY=",
+		"MSS_APPLICATION_KOODO_username": "",
+		"MSS_APPLICATION_KOODO_password": "UGFzc3cwcmQ="
+	}
+}

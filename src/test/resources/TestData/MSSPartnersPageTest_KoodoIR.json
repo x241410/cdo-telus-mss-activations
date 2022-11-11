@@ -1,0 +1,96 @@
+{
+	"PT168": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912239900010196360-(416) 146-Ontario-Toronto",
+				"8912239900010196378-(416) 146-Ontario-Toronto"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"ACCOUNT_TYPE": "IR",
+			"MSS_OFFER_NAME": "MSS AUTOMATION CONSUMER ACTIVATION SIMONLY",
+			"MSS_OFFER_PROGRAM_ID": "1015314",
+			"MSS_OFFER_HEADER": "MSS AUTOMATION CONSUMER",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$35.00 - Voice 35-Unlimited Nationwide",
+			"SIN_NUMBER": "96586",
+			"CONTACT_PHONE_NUMBER": "6471150562",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"DEVICE_TYPE_OFFER_PAGE": "Mobile Phone",
+			"PIN": "9874",
+			"FIRST_NAME": "WNP_AUTO_Test",
+			"LAST_NAME": "BT",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT148": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912230000414622381-(416) 079-Ontario-toronto"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"ACCOUNT_TYPE": "IR",
+			"MSS_OFFER_NAME": "Wireless Home Phone - BYOD - $15 Service Discount for 12 months on $20 Wireless Home Phone Only",
+			"MSS_OFFER_PROGRAM_ID": "1025092",
+			"MSS_OFFER_HEADER": "Wireless Home Phone (DO  NOT TOUCH - PRODUCTION LIKE)",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$20.00 - $20 Wireless Home Phone UL (Bonus) ",
+			"SIN_NUMBER": "96586",
+			"CONTACT_PHONE_NUMBER": "6471150562",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"DEVICE_TYPE_OFFER_PAGE": "Mobile Phone",
+			"PIN": "9874",
+			"FIRST_NAME": "WNP_AUTO_Test",
+			"LAST_NAME": "BT",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT140": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912230000414707729-(587) 172-Alberta-Calgary",
+				"8912230000414707721-(587) 172-Alberta-Calgary",
+				"8912230000414707722-(587) 172-Alberta-Calgary",
+				"8912230000414707723-(587) 172-Alberta-Calgary"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"ACCOUNT_TYPE": "IR",
+			"MSS_OFFER_NAME": "MSS AUTOMATION CONSUMER ACTIVATION SIMONLY",
+			"MSS_OFFER_PROGRAM_ID": "1015314",
+			"MSS_OFFER_HEADER": "MSS AUTOMATION CONSUMER",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$35.00 - Voice 35-Unlimited Nationwide",
+			"SIN_NUMBER": "96586",
+			"CONTACT_PHONE_NUMBER": "6471150562",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"DEVICE_TYPE_OFFER_PAGE": "Mobile Phone",
+			"PIN": "9874",
+			"FIRST_NAME": "WNP_AUTO_Test",
+			"LAST_NAME": "BT",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"PT168": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912239900009379530-(416) 146-Ontario-Toronto",
+				"8912239900009379563-(416) 146-Ontario-Toronto",
+				"8912230000414707722-(416) 146-Ontario-Toronto",
+				"8912230000414707723-(416) 146-Ontario-Toronto"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"LOCATION_PROVINCE": "Quebec",
+			"LOCATION_DROP": "Ind Dlr Loc 6 (QC) - 06",
+			"ACCOUNT_TYPE": "BR",
+			"MSS_OFFER_NAME": "BYOD Activation",
+			"MSS_OFFER_PROGRAM_ID": "1015314",
+			"MSS_OFFER_HEADER": "MSS AUTOMATION CONSUMER",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$35.00 - $35 GoO EPP BYOD NL",
+			"BUSINESS_PHONE_NUMBER": "647115",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"DEVICE_TYPE_OFFER_PAGE": "Smartphone / BlackBerry 10+",
+			"PIN": "9874",
+			"LEGAL_BUSINESS_NAME": "WNP_AUTO_FNC",
+			"TRADE_NAME": "AABT",
+			"FIRST_NAME": "WNP_AUTO_FN",
+			"LAST_NAME": "AA",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT148": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912239900009510795-(587) 067-Alberta-Calgary",
+				"8912239900009510803-(587) 067-Alberta-Calgary"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"LOCATION_PROVINCE": "Quebec",
+			"LOCATION_DROP": "QC WLN - 50",
+			"ACCOUNT_TYPE": "BR",
+			"MSS_OFFER_NAME": "BYOD - Bring Your Own Device",
+			"MSS_OFFER_PROGRAM_ID": "1009488",
+			"MSS_OFFER_HEADER": "SBS - Regular activation & renewal - STIM1",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$35.00 - Voice for Business 35 (Bonus) ",
+			"BUSINESS_PHONE_NUMBER": "647115",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"DEVICE_TYPE_OFFER_PAGE": "Smartphone / BlackBerry 10+",
+			"PIN": "9874",
+			"LEGAL_BUSINESS_NAME": "WNP_AUTO_FN",
+			"TRADE_NAME": "AABT",
+			"FIRST_NAME": "WNP_AUTO_FN",
+			"LAST_NAME": "AA",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT140": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912230000414566760-(416) 122-Ontario-Toronto"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"LOCATION_PROVINCE": "Quebec",
+			"LOCATION_DROP": "Ind Dlr Loc 6 (QC) - 06",
+			"ACCOUNT_TYPE": "BR",
+			"MSS_OFFER_NAME": "BYOD - Bring Your Own Device",
+			"MSS_OFFER_PROGRAM_ID": "1031625",
+			"MSS_OFFER_HEADER": "SBS - Regular activation & renewal - testing",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$85.00 - Unlimited 25 5G for Business $85 (Bonus)",
+			"BUSINESS_PHONE_NUMBER": "647115",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"DEVICE_TYPE_OFFER_PAGE": "Smartphone / BlackBerry 10+",
+			"PIN": "9874",
+			"LEGAL_BUSINESS_NAME": "WNP_AUTO_FN",
+			"TRADE_NAME": "AABT",
+			"FIRST_NAME": "WNP_AUTO_FN",
+			"LAST_NAME": "AA",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	}
+}

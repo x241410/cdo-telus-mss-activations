@@ -1,0 +1,103 @@
+{
+	"PT168": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912230000414707729-(587) 172-Alberta-Calgary",
+				"8912230000414707721-(587) 172-Alberta-Calgary",
+				"8912230000414707722-(587) 172-Alberta-Calgary",
+				"8912230000414707723-(587) 172-Alberta-Calgary"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"LOCATION_PROVINCE": "Quebec",
+			"LOCATION_DROP": "Ind Dlr Loc 6 (QC) - 06",
+			"identifier_RCID": "0000020023",
+			"SIN_NUMBER": "98093",
+			"CONTACT_PHONE_NUMBER": "6471150562",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"VALID_TELUS_SIM_NUMBER": "8912239900003993799",
+			"DEVICE_TYPE_OFFER_PAGE": "Mobile Phone",
+			"PIN": "9874",
+			"MSS_OFFER_NAME": "Standard - Financing - STIM1 -AUTOMATIC",
+			"MSS_SIM_ONLY_FINANCE_OFFER": "BYOD - Bring Your Own Device",
+			"MSS_OFFER_PROGRAM_ID": "1011799",
+			"NEW_RATE_PLAN": "$85.50 - EPP Peace of Mind $95/10GB CAN-US (10% savings) national (Bonus)",
+			"FIRST_NAME": "TEST",
+			"LAST_NAME": "BTTEST",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "40317",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT148": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912239900009510779-(587) 067-Alberta-Calgary",
+				"8912239900009510787-(587) 067-Alberta-Calgary"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"LOCATION_PROVINCE": "Quebec",
+			"LOCATION_DROP": "QC WLN - 50",
+			"identifier_RCID": "0000020023",
+			"SIN_NUMBER": "98093",
+			"CONTACT_PHONE_NUMBER": "6471150562",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"VALID_TELUS_SIM_NUMBER": "8912239900003993799",
+			"DEVICE_TYPE_OFFER_PAGE": "Mobile Phone",
+			"PIN": "9874",
+			"MSS_OFFER_NAME": "Standard - Financing - STIM3-2",
+			"MSS_SIM_ONLY_FINANCE_OFFER": "BYOD - Bring Your Own Device",
+			"MSS_OFFER_PROGRAM_ID": "1011827",
+			"NEW_RATE_PLAN": "$87.00 - EPP Unlimited 50 $87 (Bonus) ",
+			"FIRST_NAME": "TEST",
+			"LAST_NAME": "BTTEST",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "40317",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT140": {
+		"SUBSCRIBER_DETAILS": {
+			"ACTIVATION_DATA": [
+				"8912230000414566745-(416) 122-Ontario-Toronto",
+				"8912230000414566729-(416) 122-Ontario-Toronto"
+			]
+		},
+		"MSS_CONSTANTS": {
+			"LOCATION_PROVINCE": "Quebec",
+			"LOCATION_DROP": "Ind Dlr Loc 6 (QC) - 06",
+			"identifier_RCID": "0000020023",
+			"SIN_NUMBER": "98093",
+			"CONTACT_PHONE_NUMBER": "6471150562",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",
+			"VALID_TELUS_SIM_NUMBER": "8912239900003993799",
+			"DEVICE_TYPE_OFFER_PAGE": "Mobile Phone",
+			"PIN": "9874",
+			"MSS_OFFER_NAME": "Standard - Financing - STIM1 -AUTOMATIC",
+			"MSS_SIM_ONLY_FINANCE_OFFER": "BYOD - Bring Your Own Device",
+			"MSS_OFFER_PROGRAM_ID": "1011799",
+			"NEW_RATE_PLAN": "$85.50 - EPP Peace of Mind $95/10GB CAN-US (10% savings) national (Bonus)",
+			"FIRST_NAME": "TEST",
+			"LAST_NAME": "BTTEST",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "40317",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	}
+}

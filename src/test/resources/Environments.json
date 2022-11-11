@@ -1,0 +1,22 @@
+{
+	"PT168": {
+		"MSS_APPLICATION_TELUS": "https://salesmanagement-pt168.tmi.telus.com/CustomerProfileWeb/cp/svc/agent/init.do?languange=EN&brand=1&mss_new=true",
+		"MSS_APPLICATION_KOODO": "https://salesmanagement-pt168.tmi.telus.com/CustomerProfileWeb/cp/svc/agent/init.do?languange=EN&brand=3&mss_new=true",
+		"MSS_APPLICATION_TELUSCORP": "https://sslpt168.tmi.telus.com/partners/login.jsp"
+	},
+	"PT148": {
+		"MSS_APPLICATION_TELUS": "https://salesmanagement-pt148.tmi.telus.com/CustomerProfileWeb/cp/svc/agent/init.do?languange=EN&brand=1",
+		"MSS_APPLICATION_KOODO": "https://salesmanagement-pt148.tmi.telus.com/CustomerProfileWeb/cp/svc/agent/init.do?languange=EN&brand=3",
+		"MSS_APPLICATION_TELUSCORP": "https://it02.channelportal.telus.com"
+	},
+	"PT140": {
+		"MSS_APPLICATION_TELUS": "https://salesmanagement-ps101.tmi.telus.com/CustomerProfileWeb/cp/svc/agent/init.do?languange=EN&brand=1&mss_new=true",
+		"MSS_APPLICATION_KOODO": "https://salesmanagement-ps101.tmi.telus.com/CustomerProfileWeb/cp/svc/agent/init.do?languange=EN&brand=3&mss_new=true",
+		"MSS_APPLICATION_TELUSCORP": "https://sslqa2.tmi.telus.com/partners/login.jsp"
+	},
+	"APPLICATION_NAMES": {
+		"MSS_TELUS_APP_NAME": "MSS_APPLICATION_TELUS",
+		"MSS_KOODO_APP_NAME": "MSS_APPLICATION_KOODO",
+		"MSS_TELUSCORP_APP_NAME": "MSS_APPLICATION_TELUSCORP"
+	}
+}

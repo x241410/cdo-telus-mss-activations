@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Extent-Report Directory [Succesfuly Created]: C:\bin\UIReports\2022 11 11 11 45 20\</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Extent-Report Directory [Succesfuly Created]: C:\bin\UIReports\2022 11 11 11 45 20\</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ExtentReport Path for WINDOWS: C:\bin\UIReports\2022 11 11 11 45 20\
+</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.createNewTestReport</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.createNewTestReport</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>GROUP_REPORT tag property :  true</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>GROUP_REPORT tag property :  true</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestStart</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestStart</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION SIM=====>8912239900009510803</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION NPANXX=====>(587) 067</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION SIM=====>8912239900009510795</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION PROVIENCE=====>Alberta</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION NPANXX=====>(587) 067</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION CITY=====>Calgary</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION PROVIENCE=====>Alberta</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION CITY=====>Calgary</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: #04B404; color: white; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Assertion Passed: AssertEquals  - expected [true] and actual [true]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: #04B404; color: white; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Assertion Passed: AssertEquals  - expected [true] and actual [true]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Automation Configuration - Environment Configured for Automation Execution [PT148]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Automation Configuration - Environment Configured for Automation Execution [PT148]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Data File for MSSPartnersPageTest_TelusBR placed at : \TestData\MSSPartnersPageTest_TelusBR.json</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Data File for MSSPartnersPageTest_TelusBR placed at : \TestData\MSSPartnersPageTest_TelusBR.json</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Name : [MSSPartnersPageTest_TelusBR]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Name : [MSSPartnersPageTest_TelusBR]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Description : [The purpose of this test case is to verify "MSSPartnersPageTest_TelusBR" workflow]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Description : [The purpose of this test case is to verify "MSSPartnersPageTest_TelusBR" workflow]</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestSuccess</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestSuccess</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>JIRA - Skipping Jira Update as Toggle it's false</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>JIRA - Skipping Jira Update as Toggle it's false</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>closeTheBrowser</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>closeTheBrowser</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Browser to be utilized: CHROME</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Browser to be utilized: CHROME</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>
+BROWSER will use the OPTIONS profile: P_ACCEPT_BEHAVIORS_AND_CERTIFICATES</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>
+BROWSER will use the OPTIONS profile: P_ACCEPT_BEHAVIORS_AND_CERTIFICATES</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>INFO! The Driver settings are loaded using the LATEST Strategy</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>INFO! The Driver settings are loaded using the LATEST Strategy</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>webDriver - Session ID saved to MAP</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>webDriver - Session ID saved to MAP</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>WebDriver - Session ID removed from MAP-Calling_From-WebDriverSteps.removeThreatIdFromMap</td></tr></table></div><br/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>WebDriver - Session ID removed from MAP-Calling_From-WebDriverSteps.removeThreatIdFromMap</td></tr></table></div><br/><br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3450" started-at="2022-11-11T11:45:20 IST" finished-at="2022-11-11T11:45:24 IST">
+    <groups>
+      <group name="MSS_Activation_BR">
+        <method signature="MSSPartnersPageTest_TelusBR.testMethod_MSS(org.testng.ITestContext,java.lang.String)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_TelusBR@6cc7b4de]" name="testMethod_MSS" class="com.telus.wnp.tests.MSSPartnersPageTest_TelusBR"/>
+      </group> <!-- MSS_Activation_BR -->
+    </groups>
+    <test name="Test" duration-ms="3450" started-at="2022-11-11T11:45:20 IST" finished-at="2022-11-11T11:45:24 IST">
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_TelusBR">
+        <test-method status="PASS" signature="BeforeMethod(org.testng.ITestContext)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_TelusBR@6cc7b4de]" name="BeforeMethod" is-config="true" duration-ms="82" started-at="2022-11-11T11:45:20 IST" finished-at="2022-11-11T11:45:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@176dfb75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="testMethod_MSS(org.testng.ITestContext,java.lang.String)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_TelusBR@6cc7b4de]" name="testMethod_MSS" duration-ms="423" started-at="2022-11-11T11:45:20 IST" data-provider="test-data" finished-at="2022-11-11T11:45:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@176dfb75]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8912239900009510803-(587) 067-Alberta-Calgary]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.createNewTestReport</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>GROUP_REPORT tag property :  true</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestStart</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION SIM=====>8912239900009510803</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION NPANXX=====>(587) 067</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION PROVIENCE=====>Alberta</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION CITY=====>Calgary</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: #04B404; color: white; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Assertion Passed: AssertEquals  - expected [true] and actual [true]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Automation Configuration - Environment Configured for Automation Execution [PT148]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Data File for MSSPartnersPageTest_TelusBR placed at : \TestData\MSSPartnersPageTest_TelusBR.json</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Name : [MSSPartnersPageTest_TelusBR]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Description : [The purpose of this test case is to verify "MSSPartnersPageTest_TelusBR" workflow]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestSuccess</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>JIRA - Skipping Jira Update as Toggle it's false</td></tr></table></div><br/><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMethod_MSS -->
+        <test-method status="PASS" signature="testMethod_MSS(org.testng.ITestContext,java.lang.String)[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_TelusBR@6cc7b4de]" name="testMethod_MSS" duration-ms="423" started-at="2022-11-11T11:45:20 IST" data-provider="test-data" finished-at="2022-11-11T11:45:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@176dfb75]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8912239900009510795-(587) 067-Alberta-Calgary]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Extent-Report Directory [Succesfuly Created]: C:\bin\UIReports\2022 11 11 11 45 20\</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Extent-Report Directory [Succesfuly Created]: C:\bin\UIReports\2022 11 11 11 45 20\</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ExtentReport Path for WINDOWS: C:\bin\UIReports\2022 11 11 11 45 20\
+</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.createNewTestReport</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>GROUP_REPORT tag property :  true</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestStart</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION SIM=====>8912239900009510795</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION NPANXX=====>(587) 067</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION PROVIENCE=====>Alberta</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>ITERATION CITY=====>Calgary</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: #04B404; color: white; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Assertion Passed: AssertEquals  - expected [true] and actual [true]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Automation Configuration - Environment Configured for Automation Execution [PT148]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Data File for MSSPartnersPageTest_TelusBR placed at : \TestData\MSSPartnersPageTest_TelusBR.json</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Name : [MSSPartnersPageTest_TelusBR]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Test Case Description : [The purpose of this test case is to verify "MSSPartnersPageTest_TelusBR" workflow]</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>TestListener.onTestSuccess</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>JIRA - Skipping Jira Update as Toggle it's false</td></tr></table></div><br/><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMethod_MSS -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_TelusBR@6cc7b4de]" name="afterTest" is-config="true" duration-ms="2906" started-at="2022-11-11T11:45:21 IST" finished-at="2022-11-11T11:45:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>closeTheBrowser</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Browser to be utilized: CHROME</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>
+BROWSER will use the OPTIONS profile: P_ACCEPT_BEHAVIORS_AND_CERTIFICATES</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>INFO! The Driver settings are loaded using the LATEST Strategy</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>webDriver - Session ID saved to MAP</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>WebDriver - Session ID removed from MAP-Calling_From-WebDriverSteps.removeThreatIdFromMap</td></tr></table></div><br/><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.telus.wnp.tests.MSSPartnersPageTest_TelusBR@6cc7b4de]" name="afterTest" is-config="true" duration-ms="2903" started-at="2022-11-11T11:45:21 IST" finished-at="2022-11-11T11:45:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Output-1001-2001</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>closeTheBrowser</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>Browser to be utilized: CHROME</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>
+BROWSER will use the OPTIONS profile: P_ACCEPT_BEHAVIORS_AND_CERTIFICATES</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>INFO! The Driver settings are loaded using the LATEST Strategy</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>webDriver - Session ID saved to MAP</td></tr></table></div><br/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<div id='messageValidation' style='background-color: silver; color: black; font-size: xx-small; border: silver 2px solid; padding: 5px;'><table><tr><td style='width:85px;'>Validation</td><td>:</td><td id='message'>WebDriver - Session ID removed from MAP-Calling_From-WebDriverSteps.removeThreatIdFromMap</td></tr></table></div><br/><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_TelusBR -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
